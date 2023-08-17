@@ -4,7 +4,7 @@ import downloadGit from 'download-git-repo'
 
 
 const TYPE_MAP = {
-    'vite项目模版': 'http://8qty3yxk.elelive.cn/elelive_web/web_activity/2023_new_years.git'
+    'vite项目模版': 'http://8qty3yxk.elelive.cn/elelive_web/vite_template.git'
 }
 
 const question = [

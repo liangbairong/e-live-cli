@@ -1,4 +1,4 @@
-## le-live-cli
+## e-live-cli
 
 
 安装

@@ -1,0 +1,25 @@
+{
+  "name": "live-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type":"module",
+  "bin": {
+    "l-cli": "node ./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/liangbairong/lbr-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "commander": "^9.4.0",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^9.2.10",
+    "ora": "^6.1.2"
+  }
+}

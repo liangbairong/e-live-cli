@@ -1,18 +1,19 @@
 {
   "name": "live-cli",
+  "private": false,
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "type":"module",
+  "type": "module",
   "bin": {
     "l-cli": "node ./bin/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://gitee.com/liangbairong/lbr-cli.git"
+    "url": "https://github.com/liangbairong/live-cli"
   },
   "author": "",
   "license": "ISC",

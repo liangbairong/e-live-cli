@@ -1,7 +1,7 @@
 {
   "name": "e-live-cli",
   "private": false,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "commander": "^9.4.0",
     "download-git-repo": "^3.0.2",
     "inquirer": "^9.2.10",

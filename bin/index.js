@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 'use strict';
 import {program} from 'commander'
 import create from './create.js'

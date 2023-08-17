@@ -1,5 +1,5 @@
 {
-  "name": "live-cli",
+  "name": "e-live-cli",
   "private": false,
   "version": "1.0.0",
   "description": "",
@@ -9,7 +9,7 @@
   },
   "type": "module",
   "bin": {
-    "l-cli": "node ./bin/index.js"
+    "e-live": "./bin/index.js"
   },
   "repository": {
     "type": "git",
